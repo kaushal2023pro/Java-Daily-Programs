@@ -1,8 +1,8 @@
 // find out minimum maximum no in array.
 
-public class Array{
+public class MinMax{
     public static void main(String[] args){
-        int[] numbers = {100,150,3000};
+        int[] numbers = {10,100,150,3000,500};
         int maxno = findLargestNumber(numbers);
         int minno = findSmallestNumber(numbers);
         System.out.println(maxno);
