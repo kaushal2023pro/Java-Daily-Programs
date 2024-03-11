@@ -44,7 +44,7 @@ public class MinMax{
 
 
 /*
-1. We start by defining a public class named `Main`.
+1. We start by defining a public class named `MinMax`.
 
 2. Inside the class, we define the main method, which serves as the entry point for the program. It initializes an array of integers named `numbers` with some example values.
 
